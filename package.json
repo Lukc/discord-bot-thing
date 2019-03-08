@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot-thing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ls",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lukc/discord-bot-thing.git"
+  },
+  "author": "Résilience & Transition",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lukc/discord-bot-thing/issues"
+  },
+  "homepage": "https://github.com/Lukc/discord-bot-thing#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "livescript": "^1.6.0",
+    "shuffle-array": "^1.0.1"
+  }
+}
